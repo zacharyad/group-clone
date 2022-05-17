@@ -20,7 +20,6 @@
 ### 3) Run Script:
 - Within this directory, run the script with: 
     ```bash main.sh <nameOfTheCheckpoint>```
-</br>
 
 -  Where as 'nameOfTheCheckpoint' will be the name of a new folder created, and it will also be reference where the script will clone from. <em>*Obviously, if a student does not have the endpoint in their github, this script will not work.</em>
 
