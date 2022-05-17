@@ -22,6 +22,7 @@
     ```bash main.sh <nameOfTheCheckpoint>```
 </br>
 -  Where as '\<nameOfTheCheckpoint\>' will be the name of a new folder created, and it will also be reference where the script will clone from. <em>*Obviously, if a student does not have the endpoint in their github, this script will not work.</em>
+- This will take a bit of time. The npm install script is for each cloned directory so consider this for space and time.
 
 ### Outcome:
 - The outcome should be a new folder is created with the name of the checkpoints forked name.
